@@ -1,0 +1,21 @@
+	
+{
+	int a, b,t;
+	a=1;
+	b=2;
+	t=0;
+	while(t<=2){
+		if (t==1)
+		{
+			print("if\n");
+		}
+		else
+		{
+			print("else\n");
+		}
+		print (t);
+		print("\n");
+		t=t+1;
+	}
+}
+
